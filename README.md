@@ -97,7 +97,7 @@ Used languages, software, tools and technologies	:	Python, keras, tensorflow, te
 #### Repository :  Sights_TP (Private)
 
 
-### ...
+### ... DESCRIPTIONS OF OTHER REPOSITORIES/PROJECTS SOON
 
 <!---
 mirouhlar/mirouhlar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

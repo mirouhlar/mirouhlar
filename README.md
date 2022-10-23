@@ -1,4 +1,3 @@
-
 - 👋 Hi, I’m Miroslav Uhľar
 
 # PROJECTS
@@ -22,7 +21,7 @@ Operating system	:	Microsoft Windows, Mac OS
 Used languages, software, tools and technologies	:	MathWorks Matlab, Symbolic Toolbox, Optimization Toolbox, Model Predictive Control Toolbox, The Multi-Parametric Toolbox, Simulink, Python
 
 
-#### Repository : DP
+#### Repository : [DP](https://github.com/mirouhlar/DP)
 
 ### Mobile robot simulator
 
@@ -45,7 +44,7 @@ Operating system	:	Microsoft Windows, Mac OS, Linux
 Used languages, software, tools and technologies	:	Python, ROS2, numpy, pygame
 
 
-#### Repository : NMVR
+#### Repository : [NVMR](https://github.com/mirouhlar/NMVR)
 
 ### Information System
 
@@ -66,7 +65,7 @@ Operating system	:	Microsoft Windows, Mac OS
 
 Used languages, software, tools and technologies	:	C#, Oracle SQL 
 
-#### Repository : InformationSystem
+#### Repository : [InformationSystem](https://github.com/mirouhlar/InformationSystem)
 
 ### Sights recognition application
 
@@ -98,7 +97,6 @@ Used languages, software, tools and technologies	:	Python, keras, tensorflow, te
 
 
 ### ...
-
 
 <!---
 mirouhlar/mirouhlar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

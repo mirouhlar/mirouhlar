@@ -89,6 +89,7 @@ Partial tasks in which the author participated (Miroslav Uhľar):
 The resulting application was presented at the "Team Projects 2020" event. The project was further expanded by the implementation of additional machine learning algorithms, in order to improve the solution.
 
 Operating system	:	Microsoft Windows, Mac OS
+
 Used languages, software, tools and technologies	:	Python, keras, tensorflow, tensorflow lite, numpy, Android studio, Java
 
 

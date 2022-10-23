@@ -2,7 +2,7 @@
 
 PROJECTS/REPOSITORIES
 
-REPOSITORY: DP
+Repository: DP
 Project title	:	Application of Advanced Optimization Methods and Algorithms in Nonlinear System Control (Diploma Thesis)
 Date	:	29.10.2021 - 22.04.2022
 Short description	:	This project (Diploma Thesis) deals with modelling and optimal control of physical systems with emphasis on underactuated dynamical systems. The use of analytical identification methods is the main characteristic of the proposed methodology for modelling and simulation of dynamical system via the Lagrange formulation of mechanics. The presented methodology is implemented in Matlab using Symbolic Math Toolbox, enabling the generation of mathematical models for dynamical systems in the form of classic Matlab functions or Simulink blocks. Three case studies make use of the proposed methodology to obtain a platform of underactuated dynamic systems. Project (Diploma Thesis) also deals with the design and implementation of optimal control algorithms based on the quadratic criterion minimization, and with predictive control design based on the linear system model. Considered control algorithms are implemented in the Matlab as well as Simulink, in the form of custom blocks. Finally, project deals with design and implementation of an Matlab application presents the obtained results of modelling and control of underactuated systems. 
